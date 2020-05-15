@@ -163,6 +163,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bullets Left
       objectReference: {fileID: 0}
+    - target: {fileID: 1539036738619994354, guid: e112353525ff6904aab77478db78f9e5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1539036738619994357, guid: e112353525ff6904aab77478db78f9e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -328,6 +333,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bullets RIght
+      objectReference: {fileID: 0}
+    - target: {fileID: 4666653491728288308, guid: 58f679017eff71d4a97c334a88a1c898,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58f679017eff71d4a97c334a88a1c898, type: 3}
